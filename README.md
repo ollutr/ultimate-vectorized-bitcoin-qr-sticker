@@ -9,5 +9,5 @@ Notice:
 The word "bitcoin" is deliberately a bit darker than in the source vector graphic.  
 Otherwise the QR-code won't scan on the most popular Android QR scanner (ZXing).  
 
-To thank me for this sticker, donate to bitcoin:1AvGbLVX2FCKsrj2ECU2jcW2L1UTmK3EJx  
+To thank me for this sticker, donate to bitcoin:1LY6ui1AgYZkEuZ9763uypG7c4C2LPEvvL  
 Thank you! :)
